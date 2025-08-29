@@ -1,3 +1,5 @@
+<img align="right" width="64" alt="icon" src="https://github.com/user-attachments/assets/35f38da2-02ad-4865-b890-85922721a05f" />
+
 # GISPrecip - Precipitation Classification and Estimation
 
 This repository belongs to a team project aimed at developing a **QGIS Plugin** for **Precipitation Classification and Estimation**. The plugin is designed to help users analyze and classify precipitation data, offering insights and estimations of precipitation levels across different geographical regions. The main goal of this project is to combine environmental data with geospatial tools to facilitate a deeper understanding of precipitation patterns.
