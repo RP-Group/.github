@@ -1,2 +1,20 @@
-# .github
-Organization description
+<div display="flex" align="center">
+<img width="20%" alt="icon" src="https://github.com/user-attachments/assets/c3fdf2da-0ccd-459b-a39b-f51b80a1b59d" />
+</div>
+
+# QGIS Plugin - Rainfall Classification and Estimation
+
+This repository belongs to a team project aimed at developing a **QGIS Plugin** for **Precipitation Classification and Estimation**. The plugin is designed to help users analyze and classify precipitation data, offering insights and estimations of precipitation levels across different geographical regions. The main goal of this project is to combine environmental data with geospatial tools to facilitate a deeper understanding of precipitation patterns.
+
+## Team Members
+
+The project is the final project for the Computer Learning and Pattern Recognition course taught in the Applied Computing Graduate Program at the Brazilian National Institute for Space Research by Professor Rogério Galente Negri.
+
+The project's developers are:
+
+- **Gabriel Rocha**
+- **Júlia Gayotto**
+- **Salatiel Jordão**
+- **Thainá Lopes**
+
+
